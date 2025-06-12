@@ -1,0 +1,19 @@
+{
+  "name": "vercel-gemini-menu",
+  "version": "1.0.0",
+  "description": "Генерация меню через Gemini API",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^13.4.0"
+  },
+  "engines": {
+    "node": ">=16.x.x"
+  }
+}
